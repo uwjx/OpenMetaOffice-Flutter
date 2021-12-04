@@ -91,8 +91,7 @@ dependencies:
 #  flutter_slidable: ^1.1.0
   flutter_openim_widget:
     path: ../../flutter_openim_widget
-  flutter_ion:
-    path: ../../ion-sdk-flutter-master
+
 
 dev_dependencies:
   flutter_test:
